@@ -1,0 +1,8 @@
+*#
+*~
+*.o
+*.hi
+*_flymake*
+*.swp
+*.swo
+dist/
